@@ -1,0 +1,62 @@
+# Sao Paulo
+
+> Geotechnical engineering company in Chile, providing professional services in soil mechanics, foundation engineering and site investigation.
+
+## Services
+- [Amostragem Indeformada](https://sao-paulo.geotecnia1.org/amostragem-indeformada/)
+- [Analise Amplificacao Sismica](https://sao-paulo.geotecnia1.org/analise-amplificacao-sismica/)
+- [Analise Estabilidade Taludes](https://sao-paulo.geotecnia1.org/analise-estabilidade-taludes/)
+- [Analise Estacas Atrito Lateral](https://sao-paulo.geotecnia1.org/analise-estacas-atrito-lateral/)
+- [Analise Fluxos Detritos](https://sao-paulo.geotecnia1.org/analise-fluxos-detritos/)
+- [Analise Geotecnica Tuneis Solo](https://sao-paulo.geotecnia1.org/analise-geotecnica-tuneis-solo/)
+- [Analise Recalque Diferencial](https://sao-paulo.geotecnia1.org/analise-recalque-diferencial/)
+- [Analise Recalques](https://sao-paulo.geotecnia1.org/analise-recalques/)
+- [Analise Resposta Sismica Local](https://sao-paulo.geotecnia1.org/analise-resposta-sismica-local/)
+- [Analise Ruptura Taludes](https://sao-paulo.geotecnia1.org/analise-ruptura-taludes/)
+- [Analise Solos Nao Saturados](https://sao-paulo.geotecnia1.org/analise-solos-nao-saturados/)
+- [Avaliacao Deslizamentos](https://sao-paulo.geotecnia1.org/avaliacao-deslizamentos/)
+- [Avaliacao Pavimentos Existentes](https://sao-paulo.geotecnia1.org/avaliacao-pavimentos-existentes/)
+- [Avaliacao Solos Colapsiveis](https://sao-paulo.geotecnia1.org/avaliacao-solos-colapsiveis/)
+- [Avaliacao Solos Expansivos](https://sao-paulo.geotecnia1.org/avaliacao-solos-expansivos/)
+- [Calculo Fator Seguranca](https://sao-paulo.geotecnia1.org/calculo-fator-seguranca/)
+- [Caracterizacao Solos Residuais](https://sao-paulo.geotecnia1.org/caracterizacao-solos-residuais/)
+- [Cone Penetration Test](https://sao-paulo.geotecnia1.org/cone-penetration-test/)
+- [Drenagem Viaria Geotecnica](https://sao-paulo.geotecnia1.org/drenagem-viaria-geotecnica/)
+- [Ensaio Cbr Laboratorio](https://sao-paulo.geotecnia1.org/ensaio-cbr-laboratorio/)
+- [Ensaio Compressao Simples](https://sao-paulo.geotecnia1.org/ensaio-compressao-simples/)
+- [Ensaio Consolidacao Edometrica](https://sao-paulo.geotecnia1.org/ensaio-consolidacao-edometrica/)
+- [Ensaio Densidade In Situ](https://sao-paulo.geotecnia1.org/ensaio-densidade-in-situ/)
+- [Ensaio Dilatometro Plano](https://sao-paulo.geotecnia1.org/ensaio-dilatometro-plano/)
+- [Ensaio Infiltracao](https://sao-paulo.geotecnia1.org/ensaio-infiltracao/)
+- [Ensaio Palheta In Situ](https://sao-paulo.geotecnia1.org/ensaio-palheta-in-situ/)
+- [Ensaio Permeabilidade In Situ](https://sao-paulo.geotecnia1.org/ensaio-permeabilidade-in-situ/)
+- [Ensaio Permeabilidade Laboratorio](https://sao-paulo.geotecnia1.org/ensaio-permeabilidade-laboratorio/)
+- [Ensaio Triaxial](https://sao-paulo.geotecnia1.org/ensaio-triaxial/)
+- [Ensaios In Situ](https://sao-paulo.geotecnia1.org/ensaios-in-situ/)
+- [Escavacoes Subterraneas](https://sao-paulo.geotecnia1.org/escavacoes-subterraneas/)
+- [Especificacao Geomembranas](https://sao-paulo.geotecnia1.org/especificacao-geomembranas/)
+- [Especificacao Geotexteis](https://sao-paulo.geotecnia1.org/especificacao-geotexteis/)
+- [Estabilizacao Solos Rodovias](https://sao-paulo.geotecnia1.org/estabilizacao-solos-rodovias/)
+- [Estudo Cbr Projeto Viario](https://sao-paulo.geotecnia1.org/estudo-cbr-projeto-viario/)
+- [Estudo Mecanica Solos](https://sao-paulo.geotecnia1.org/estudo-mecanica-solos/)
+- [Exploracao](https://sao-paulo.geotecnia1.org/exploracao/)
+- [Fundacoes](https://sao-paulo.geotecnia1.org/fundacoes/)
+- [Fundacoes Aterros](https://sao-paulo.geotecnia1.org/fundacoes-aterros/)
+- [Geofisica](https://sao-paulo.geotecnia1.org/geofisica/)
+- [Geotecnia Aterros Sanitarios](https://sao-paulo.geotecnia1.org/geotecnia-aterros-sanitarios/)
+- [Geotecnia Viaria](https://sao-paulo.geotecnia1.org/geotecnia-viaria/)
+- [Ground Penetrating Radar](https://sao-paulo.geotecnia1.org/ground-penetrating-radar/)
+- [Laboratorio](https://sao-paulo.geotecnia1.org/laboratorio/)
+- [Limites Atterberg](https://sao-paulo.geotecnia1.org/limites-atterberg/)
+- [Manejo Solos Organicos](https://sao-paulo.geotecnia1.org/manejo-solos-organicos/)
+- [Melhoramento](https://sao-paulo.geotecnia1.org/melhoramento/)
+- [Microtremores Hvsr](https://sao-paulo.geotecnia1.org/microtremores-hvsr/)
+- [Microzoneamento Sismico](https://sao-paulo.geotecnia1.org/microzoneamento-sismico/)
+- [Monitoramento Geotecnico Escavacoes](https://sao-paulo.geotecnia1.org/monitoramento-geotecnico-escavacoes/)
+
+## Contact
+- Website: https://sao-paulo.geotecnia1.org/
+
+## About
+This page provides information about geotechnical engineering services available in Chile.
+The company complies with local and international standards including ASTM, ISO and country-specific norms.
