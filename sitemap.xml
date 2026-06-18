@@ -1,273 +1,387 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://sao-paulo.geotecnia1.org/</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>1.0</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/analise-amplificacao-sismica/</loc>
+    <lastmod>2026-04-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/analise-estabilidade-taludes/</loc>
+    <lastmod>2026-05-13</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/analise-liquefacao-solos/</loc>
+    <lastmod>2026-03-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/analise-recalque-diferencial/</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/analise-resposta-sismica-local/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/avaliacao-deslizamentos/</loc>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/avaliacao-pavimentos-existentes/</loc>
+    <lastmod>2026-04-06</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/avaliacao-solos-colapsiveis/</loc>
+    <lastmod>2026-05-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/avaliacao-solos-expansivos/</loc>
+    <lastmod>2026-04-06</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/calculo-fator-seguranca/</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/caracterizacao-solos-residuais/</loc>
+    <lastmod>2026-05-16</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/classificacao-solos/</loc>
+    <lastmod>2026-04-29</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/cone-penetration-test/</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/drenagem-viaria-geotecnica/</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/ensaio-cisalhamento-direto/</loc>
+    <lastmod>2026-05-04</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/ensaio-compressao-simples/</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/ensaio-consolidacao-edometrica/</loc>
+    <lastmod>2026-04-08</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/ensaio-densidade-in-situ/</loc>
+    <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/ensaio-infiltracao/</loc>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/ensaio-permeabilidade-in-situ/</loc>
+    <lastmod>2026-04-03</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/ensaio-permeabilidade-laboratorio/</loc>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/ensaio-placa-carga/</loc>
+    <lastmod>2026-05-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/ensaios-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/escavacoes-subterraneas/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/especificacao-geogrelhas/</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/especificacao-geomembranas/</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/estabilizacao-cal-cimento/</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/estudo-cbr-projeto-viario/</loc>
+    <lastmod>2026-04-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/estudo-mecanica-solos/</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/exploracao/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/fundacoes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/geofisica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/geotecnia-viaria/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/instrumentacao-geotecnica/</loc>
+    <lastmod>2026-03-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/laboratorio/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/limites-atterberg/</loc>
+    <lastmod>2026-04-01</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/manejo-solos-organicos/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/melhoramento/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/microtremores-hvsr/</loc>
+    <lastmod>2026-05-11</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/microzoneamento-sismico/</loc>
+    <lastmod>2026-04-19</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/monitoramento-geotecnico-escavacoes/</loc>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/monitoramento-geotecnico-taludes/</loc>
+    <lastmod>2026-03-31</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/normal-ou-modificado/</loc>
+    <lastmod>2026-04-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/peneiramento-hidrometro/</loc>
+    <lastmod>2026-03-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-aterros-viarios/</loc>
+    <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-compactacao-dinamica/</loc>
+    <lastmod>2026-04-30</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-cortinas-estacas-pranchas/</loc>
+    <lastmod>2026-03-28</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-fundacoes-superficiais/</loc>
+    <lastmod>2026-04-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-geocelulas/</loc>
+    <lastmod>2026-05-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-injecoes/</loc>
+    <lastmod>2026-05-10</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-isolamento-sismico-base/</loc>
+    <lastmod>2026-05-20</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-micropilotes/</loc>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-muros-contencao/</loc>
+    <lastmod>2026-03-24</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-muros-mse/</loc>
+    <lastmod>2026-04-16</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-pavimento-flexivel/</loc>
+    <lastmod>2026-03-26</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-pavimento-rigido/</loc>
+    <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-pre-carga/</loc>
+    <lastmod>2026-04-28</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/projeto-vibrocompactacao/</loc>
+    <lastmod>2026-05-14</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/resistividade-eletrica-sev/</loc>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/standard-penetration-test/</loc>
+    <lastmod>2026-04-03</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sao-paulo.geotecnia1.org/taludes-e-muros/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sao-paulo.geotecnia1.org/velocidade-ondas-cisalhamento/</loc>
+    <lastmod>2026-04-27</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.95</priority>
+    <priority>0.8</priority>
   </url>
 </urlset>
